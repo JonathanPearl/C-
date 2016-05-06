@@ -1,0 +1,8 @@
+E:\Programming\C#\SMS\TestSMS\TestSMS\bin\Debug\TestSMS.exe.config
+E:\Programming\C#\SMS\TestSMS\TestSMS\obj\Debug\TestSMS.csprojResolveAssemblyReference.cache
+E:\Programming\C#\SMS\TestSMS\TestSMS\bin\Debug\TestSMS.exe
+E:\Programming\C#\SMS\TestSMS\TestSMS\bin\Debug\TestSMS.pdb
+E:\Programming\C#\SMS\TestSMS\TestSMS\bin\Debug\nunit.framework.dll
+E:\Programming\C#\SMS\TestSMS\TestSMS\bin\Debug\nunit.framework.xml
+E:\Programming\C#\SMS\TestSMS\TestSMS\obj\Debug\TestSMS.exe
+E:\Programming\C#\SMS\TestSMS\TestSMS\obj\Debug\TestSMS.pdb
